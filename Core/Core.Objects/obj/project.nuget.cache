@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A6aSRSnaKl3iSyGBVOIP+fKRioV+w8JeUPF9Nr77lqbIQtRtdZvGTcytjcqi2p3z1wB+ISVgdNWLDQSJ874QLw==",
+  "success": true,
+  "projectFilePath": "G:\\Work\\Code\\GitHub\\Core\\Core.Objects\\Core.Objects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kingl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kingl\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
