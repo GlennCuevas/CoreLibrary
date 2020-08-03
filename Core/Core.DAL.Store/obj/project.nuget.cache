@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r39iVPRaXluCsCDwuiDaOTL0lYRGvkDWqZvqxfyRtd3XMz7wlitRg6LlU9th02jz/H9gshjevSJsd3XtlRizFw==",
+  "dgSpecHash": "KQqq623Fl5MXomNOvmEB9O0J10PYqjbEsVI4ztBPSaf7EE1CGLJ7BQ3iYw4oxip0OPJqHSEhqBj0BbeJe9/vzQ==",
   "success": true,
-  "projectFilePath": "G:\\Work\\Code\\GitHub\\Core\\Core.DAL.Store\\Core.DAL.StoreRepo.csproj",
+  "projectFilePath": "G:\\Work\\Code\\GitHub\\Core\\Core.DAL.Store\\Core.DAL.StoreRepoWrong.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kingl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\kingl\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

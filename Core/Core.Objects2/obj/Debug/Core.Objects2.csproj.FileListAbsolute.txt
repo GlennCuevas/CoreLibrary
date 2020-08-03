@@ -1,0 +1,6 @@
+G:\Work\Code\GitHub\Core\Core.Objects2\bin\Debug\Core.Objects2.dll
+G:\Work\Code\GitHub\Core\Core.Objects2\bin\Debug\Core.Objects2.pdb
+G:\Work\Code\GitHub\Core\Core.Objects2\obj\Debug\Core.Objects2.csprojAssemblyReference.cache
+G:\Work\Code\GitHub\Core\Core.Objects2\obj\Debug\Core.Objects2.csproj.CoreCompileInputs.cache
+G:\Work\Code\GitHub\Core\Core.Objects2\obj\Debug\Core.Objects2.dll
+G:\Work\Code\GitHub\Core\Core.Objects2\obj\Debug\Core.Objects2.pdb

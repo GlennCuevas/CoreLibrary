@@ -186,9 +186,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Work\\Code\\GitHub\\Core\\Core.Database\\Core.Database.csproj",
-      "projectName": "Core.Database",
-      "projectPath": "G:\\Work\\Code\\GitHub\\Core\\Core.Database\\Core.Database.csproj",
+      "projectUniqueName": "G:\\Work\\Code\\GitHub\\Core\\Core.Database\\Core.DatabaseWrong.csproj",
+      "projectName": "Core.DatabaseWrong",
+      "projectPath": "G:\\Work\\Code\\GitHub\\Core\\Core.Database\\Core.DatabaseWrong.csproj",
       "packagesPath": "C:\\Users\\kingl\\.nuget\\packages\\",
       "outputPath": "G:\\Work\\Code\\GitHub\\Core\\Core.Database\\obj\\",
       "projectStyle": "PackageReference",

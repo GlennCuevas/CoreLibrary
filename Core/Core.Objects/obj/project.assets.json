@@ -186,9 +186,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Work\\Code\\GitHub\\Core\\Core.Objects\\Core.Objects.csproj",
-      "projectName": "Core.Objects",
-      "projectPath": "G:\\Work\\Code\\GitHub\\Core\\Core.Objects\\Core.Objects.csproj",
+      "projectUniqueName": "G:\\Work\\Code\\GitHub\\Core\\Core.Objects\\Core.ObjectsWrong.csproj",
+      "projectName": "Core.ObjectsWrong",
+      "projectPath": "G:\\Work\\Code\\GitHub\\Core\\Core.Objects\\Core.ObjectsWrong.csproj",
       "packagesPath": "C:\\Users\\kingl\\.nuget\\packages\\",
       "outputPath": "G:\\Work\\Code\\GitHub\\Core\\Core.Objects\\obj\\",
       "projectStyle": "PackageReference",

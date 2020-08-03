@@ -25,26 +25,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "Core.Database/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Core.Database.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Core.Database.dll": {}
-        }
-      },
-      "Core.Objects/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Core.Objects.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Core.Objects.dll": {}
-        }
       }
     }
   },
@@ -192,22 +172,10 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "Core.Database/1.0.0": {
-      "type": "project",
-      "path": "../Core.Database/Core.Database.csproj",
-      "msbuildProject": "../Core.Database/Core.Database.csproj"
-    },
-    "Core.Objects/1.0.0": {
-      "type": "project",
-      "path": "../Core.Objects/Core.Objects.csproj",
-      "msbuildProject": "../Core.Objects/Core.Objects.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Core.Database >= 1.0.0",
-      "Core.Objects >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -218,9 +186,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Work\\Code\\GitHub\\Core\\Core.DAL.Store\\Core.DAL.StoreRepo.csproj",
-      "projectName": "Core.DAL.StoreRepo",
-      "projectPath": "G:\\Work\\Code\\GitHub\\Core\\Core.DAL.Store\\Core.DAL.StoreRepo.csproj",
+      "projectUniqueName": "G:\\Work\\Code\\GitHub\\Core\\Core.DAL.Store\\Core.DAL.StoreRepoWrong.csproj",
+      "projectName": "Core.DAL.StoreRepoWrong",
+      "projectPath": "G:\\Work\\Code\\GitHub\\Core\\Core.DAL.Store\\Core.DAL.StoreRepoWrong.csproj",
       "packagesPath": "C:\\Users\\kingl\\.nuget\\packages\\",
       "outputPath": "G:\\Work\\Code\\GitHub\\Core\\Core.DAL.Store\\obj\\",
       "projectStyle": "PackageReference",
@@ -241,14 +209,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {
-            "G:\\Work\\Code\\GitHub\\Core\\Core.Database\\Core.Database.csproj": {
-              "projectPath": "G:\\Work\\Code\\GitHub\\Core\\Core.Database\\Core.Database.csproj"
-            },
-            "G:\\Work\\Code\\GitHub\\Core\\Core.Objects\\Core.Objects.csproj": {
-              "projectPath": "G:\\Work\\Code\\GitHub\\Core\\Core.Objects\\Core.Objects.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
