@@ -1,9 +1,0 @@
-G:\Work\Code\GitHub\Core\Core.Objects\bin\Debug\netstandard2.0\Core.Objects.deps.json
-G:\Work\Code\GitHub\Core\Core.Objects\bin\Debug\netstandard2.0\Core.Objects.dll
-G:\Work\Code\GitHub\Core\Core.Objects\bin\Debug\netstandard2.0\Core.Objects.pdb
-G:\Work\Code\GitHub\Core\Core.Objects\obj\Debug\netstandard2.0\Core.Objects.csprojAssemblyReference.cache
-G:\Work\Code\GitHub\Core\Core.Objects\obj\Debug\netstandard2.0\Core.Objects.AssemblyInfoInputs.cache
-G:\Work\Code\GitHub\Core\Core.Objects\obj\Debug\netstandard2.0\Core.Objects.AssemblyInfo.cs
-G:\Work\Code\GitHub\Core\Core.Objects\obj\Debug\netstandard2.0\Core.Objects.csproj.CoreCompileInputs.cache
-G:\Work\Code\GitHub\Core\Core.Objects\obj\Debug\netstandard2.0\Core.Objects.dll
-G:\Work\Code\GitHub\Core\Core.Objects\obj\Debug\netstandard2.0\Core.Objects.pdb

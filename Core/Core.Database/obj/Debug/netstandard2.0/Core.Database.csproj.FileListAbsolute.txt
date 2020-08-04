@@ -1,9 +1,0 @@
-G:\Work\Code\GitHub\Core\Core.Database\bin\Debug\netstandard2.0\Core.Database.deps.json
-G:\Work\Code\GitHub\Core\Core.Database\bin\Debug\netstandard2.0\Core.Database.dll
-G:\Work\Code\GitHub\Core\Core.Database\bin\Debug\netstandard2.0\Core.Database.pdb
-G:\Work\Code\GitHub\Core\Core.Database\obj\Debug\netstandard2.0\Core.Database.csprojAssemblyReference.cache
-G:\Work\Code\GitHub\Core\Core.Database\obj\Debug\netstandard2.0\Core.Database.AssemblyInfoInputs.cache
-G:\Work\Code\GitHub\Core\Core.Database\obj\Debug\netstandard2.0\Core.Database.AssemblyInfo.cs
-G:\Work\Code\GitHub\Core\Core.Database\obj\Debug\netstandard2.0\Core.Database.csproj.CoreCompileInputs.cache
-G:\Work\Code\GitHub\Core\Core.Database\obj\Debug\netstandard2.0\Core.Database.dll
-G:\Work\Code\GitHub\Core\Core.Database\obj\Debug\netstandard2.0\Core.Database.pdb
