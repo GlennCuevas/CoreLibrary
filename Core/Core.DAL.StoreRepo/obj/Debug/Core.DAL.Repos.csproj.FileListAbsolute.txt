@@ -1,0 +1,15 @@
+G:\Work\Code\GitHub\Core\Core.DAL.StoreRepo\bin\Debug\Core.DAL.StoreRepo.dll
+G:\Work\Code\GitHub\Core\Core.DAL.StoreRepo\bin\Debug\Core.DAL.StoreRepo.pdb
+G:\Work\Code\GitHub\Core\Core.DAL.StoreRepo\bin\Debug\Core.Database2.dll
+G:\Work\Code\GitHub\Core\Core.DAL.StoreRepo\bin\Debug\Core.Objects2.dll
+G:\Work\Code\GitHub\Core\Core.DAL.StoreRepo\bin\Debug\Core.Database2.pdb
+G:\Work\Code\GitHub\Core\Core.DAL.StoreRepo\bin\Debug\Core.Objects2.pdb
+G:\Work\Code\GitHub\Core\Core.DAL.StoreRepo\obj\Debug\Core.DAL.Repos.csprojAssemblyReference.cache
+G:\Work\Code\GitHub\Core\Core.DAL.StoreRepo\obj\Debug\Core.DAL.Repos.csproj.CoreCompileInputs.cache
+G:\Work\Code\GitHub\Core\Core.DAL.StoreRepo\obj\Debug\Core.DAL.Repos.csproj.CopyComplete
+G:\Work\Code\GitHub\_Builds\Core.DAL.Repos.dll
+G:\Work\Code\GitHub\_Builds\Core.DAL.Repos.pdb
+G:\Work\Code\GitHub\Core\Core.DAL.StoreRepo\obj\Debug\Core.DAL.Repos.dll
+G:\Work\Code\GitHub\Core\Core.DAL.StoreRepo\obj\Debug\Core.DAL.Repos.pdb
+G:\Work\Code\GitHub\_Builds\debug\Core.DAL.Repos.dll
+G:\Work\Code\GitHub\_Builds\debug\Core.DAL.Repos.pdb

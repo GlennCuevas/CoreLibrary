@@ -1,7 +1,7 @@
 ﻿using Core.Database;
 using Core.Objects;
 
-namespace Core.DAL.StoreRepo
+namespace Core.DAL.Repos
 {
 	public class Stores
 	{

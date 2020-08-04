@@ -1,0 +1,5 @@
+G:\Work\Code\GitHub\_Builds\debug\Core.Database.dll
+G:\Work\Code\GitHub\_Builds\debug\Core.Database.pdb
+G:\Work\Code\GitHub\Core\Core.Database2\obj\Debug\Core.Database.csproj.CoreCompileInputs.cache
+G:\Work\Code\GitHub\Core\Core.Database2\obj\Debug\Core.Database.dll
+G:\Work\Code\GitHub\Core\Core.Database2\obj\Debug\Core.Database.pdb

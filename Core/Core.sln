@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.DAL.StoreRepo", "Core.DAL.StoreRepo\Core.DAL.StoreRepo.csproj", "{88A9DF96-FE76-4006-8F81-47237F37781E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.DAL.Repos", "Core.DAL.StoreRepo\Core.DAL.Repos.csproj", "{88A9DF96-FE76-4006-8F81-47237F37781E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Database2", "Core.Database2\Core.Database2.csproj", "{A5F0C836-0B7E-4EC3-99DB-918D198EA685}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Database", "Core.Database2\Core.Database.csproj", "{A5F0C836-0B7E-4EC3-99DB-918D198EA685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Objects2", "Core.Objects2\Core.Objects2.csproj", "{E3E7E1BC-ABBA-402D-8601-842A0105605C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Objects", "Core.Objects2\Core.Objects.csproj", "{E3E7E1BC-ABBA-402D-8601-842A0105605C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
